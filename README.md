@@ -1,16 +1,16 @@
-### Hi there 👋
+<!-- ![hero](hero-1.png) -->
+![hero](hero-2.png)
 
-<!--
-**d-alvear/d-alvear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist based in California.
+- 📫 Find me on [Twitter](https://twitter.com/data_deandra)!
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+Currently I'm...
+- 🔭 Searching for my first data science role.
+- 📙 Learning about A/B testing.
+- 👾 Wanting to start contributing to open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>More about me...</summary>
+
+</details>
